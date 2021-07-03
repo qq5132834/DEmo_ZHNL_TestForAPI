@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4632cf4f-e01e-4171-9083-9a94bb776e7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java" afterDir="false" />
-    </list>
+    <list default="true" id="4632cf4f-e01e-4171-9083-9a94bb776e7f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,18 +79,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\StudyProject\TestForAPI\src\main\resources\paramsFile\JDParams" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\51328\Desktop\DEmo\ZHNL\TestForAPI\src\main\java" />
+      <recent name="D:\demo\ZHNL\TestForAPI\src\main\java\com\lon\lin\test" />
+      <recent name="D:\local\TestForAPI\src\main\resources\paramsFile\JDParams" />
+      <recent name="D:\local\TestForAPI\src\main\resources" />
+      <recent name="D:\local\TestForAPI\src\main\resources\security" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.lon.lin.test" />
       <recent name="com.lon.lin.encrypt" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\demo\ZHNL\TestForAPI\src\main\java\com\lon\lin\test" />
-      <recent name="D:\local\TestForAPI\src\main\resources\paramsFile\JDParams" />
-      <recent name="D:\local\TestForAPI\src\main\resources" />
-      <recent name="D:\local\TestForAPI\src\main\resources\security" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\StudyProject\TestForAPI\src\main\resources\paramsFile\JDParams" />
     </key>
   </component>
@@ -719,7 +717,7 @@
       <workItem from="1624780492042" duration="443000" />
       <workItem from="1624852166596" duration="5380000" />
       <workItem from="1625059371958" duration="4171000" />
-      <workItem from="1625310733349" duration="545000" />
+      <workItem from="1625310733349" duration="816000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
