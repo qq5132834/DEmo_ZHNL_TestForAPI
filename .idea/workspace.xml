@@ -36,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/lon/lin/encrypt/JDZXCEncryptAndDecrypt.java" root0="SKIP_INSPECTION" />
   </component>
@@ -714,12 +717,24 @@
       <workItem from="1624780492042" duration="443000" />
       <workItem from="1624852166596" duration="5380000" />
       <workItem from="1625059371958" duration="4171000" />
+      <workItem from="1625310733349" duration="282000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#SQL_Dialects" timestamp="1578532829773">

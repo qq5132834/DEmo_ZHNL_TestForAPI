@@ -1,0 +1,3 @@
+flag,openId, acNo, bankUserId, productCode, orderNo, tradeAmount
+"true","1111111","1","1","01060067","","100"
+"false","1111111","1","1","01060067","7cdb747c-9df1-4fc7-87fe-5741df04c833","100"
