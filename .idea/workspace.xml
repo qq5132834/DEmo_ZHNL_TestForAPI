@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4632cf4f-e01e-4171-9083-9a94bb776e7f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestForAPI" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/lon/lin/encrypt/JDZXCEncryptAndDecrypt.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-repository\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.2.5" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W8UHsI8OE8xhoBLmlf6SivPkgB" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/BaiduNetdiskDownload/Java安全密码学教程/代码/代码/encrypt-decrypt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\StudyProject\TestForAPI\src\main\resources\paramsFile\JDParams" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lon.lin.test" />
+      <recent name="com.lon.lin.encrypt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\demo\ZHNL\TestForAPI\src\main\java\com\lon\lin\test" />
+      <recent name="D:\local\TestForAPI\src\main\resources\paramsFile\JDParams" />
+      <recent name="D:\local\TestForAPI\src\main\resources" />
+      <recent name="D:\local\TestForAPI\src\main\resources\security" />
+      <recent name="D:\StudyProject\TestForAPI\src\main\resources\paramsFile\JDParams" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCtradeDetail">
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SxBankTestAPIForZHNLSC.ZHNLSCqueryFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.SxBankTestAPIForZHNLSC" />
+      <option name="METHOD_NAME" value="ZHNLSCqueryFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SxBankTestAPIForZHNLSC.ZHNLSCqueryTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.SxBankTestAPIForZHNLSC" />
+      <option name="METHOD_NAME" value="ZHNLSCqueryTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SxBankTestAPIForZHNLSC.ZHNLSCrequestReconcil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.SxBankTestAPIForZHNLSC" />
+      <option name="METHOD_NAME" value="ZHNLSCrequestReconcil" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SxBankTestAPIForZHNLSC.ZHNLSCsearchAcc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.SxBankTestAPIForZHNLSC" />
+      <option name="METHOD_NAME" value="ZHNLSCsearchAcc" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SxBankTestAPIForZHNLSC.ZHNLSCtradeDetail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.SxBankTestAPIForZHNLSC" />
+      <option name="METHOD_NAME" value="ZHNLSCtradeDetail" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDRechrgeQry" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDRechrgeQry(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDRelayImgUpload" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDRelayImgUpload(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDWithDrawQry" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDWithDrawQry(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDZXCProductBuy" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDZXCProductBuy(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDZXCProductBuyQry" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDZXCProductBuyQry(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDZXCProductHoldingQry" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDZXCProductHoldingQry(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDZXCProductProfit" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDZXCProductProfit(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.JDZXCProductQry" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="JDZXCProductQry(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.testJDAcctMsgQry" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="testJDAcctMsgQry(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.testJDAcctOpen" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="testJDAcctOpen(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.testJDRechage" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="testJDRechage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.testJDReplaceCard" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="testJDReplaceCard(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIForJD.testJDReplacePhone" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestForAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lon.lin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lon.lin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lon.lin.test.TestAPIForJD" />
+      <option name="METHOD_NAME" value="testJDReplacePhone(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestAPIForJD.JDWithDrawQry" />
+      <item itemvalue="JUnit.TestAPIForJD.JDRelayImgUpload" />
+      <item itemvalue="JUnit.TestAPIForJD.JDZXCProductBuy" />
+      <item itemvalue="JUnit.TestAPIForJD.testJDAcctOpen" />
+      <item itemvalue="JUnit.TestAPIForJD.JDZXCProductHoldingQry" />
+      <item itemvalue="JUnit.TestAPIForJD.testJDAcctMsgQry" />
+      <item itemvalue="JUnit.TestAPIForJD.testJDReplaceCard" />
+      <item itemvalue="JUnit.TestAPIForJD.JDRechrgeQry" />
+      <item itemvalue="JUnit.TestAPIForJD.testJDRechage" />
+      <item itemvalue="JUnit.TestAPIForJD.testJDReplacePhone" />
+      <item itemvalue="JUnit.TestAPIForJD.JDZXCProductQry" />
+      <item itemvalue="JUnit.TestAPIForJD.JDZXCProductProfit" />
+      <item itemvalue="JUnit.TestAPIForJD.JDZXCProductBuyQry" />
+      <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCqueryTotal" />
+      <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCsearchAcc" />
+      <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCtradeDetail" />
+      <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCrequestReconcil" />
+      <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCqueryFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCtradeDetail" />
+        <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCqueryTotal" />
+        <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCqueryFile" />
+        <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCrequestReconcil" />
+        <item itemvalue="JUnit.SxBankTestAPIForZHNLSC.ZHNLSCsearchAcc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="4632cf4f-e01e-4171-9083-9a94bb776e7f" name="Default Changelist" comment="" />
+      <created>1578530630306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593312464696</updated>
+      <workItem from="1578530631854" duration="24738000" />
+      <workItem from="1578615228699" duration="6425000" />
+      <workItem from="1578709290306" duration="1503000" />
+      <workItem from="1578711366275" duration="1209000" />
+      <workItem from="1578827921550" duration="4614000" />
+      <workItem from="1578873735616" duration="7805000" />
+      <workItem from="1581470235938" duration="925000" />
+      <workItem from="1582292704838" duration="447000" />
+      <workItem from="1584497966267" duration="10333000" />
+      <workItem from="1584577974299" duration="4078000" />
+      <workItem from="1584663491262" duration="5417000" />
+      <workItem from="1584921549412" duration="2129000" />
+      <workItem from="1585020994977" duration="8849000" />
+      <workItem from="1585095252908" duration="9959000" />
+      <workItem from="1585180529089" duration="599000" />
+      <workItem from="1585188484182" duration="1131000" />
+      <workItem from="1585190600905" duration="9318000" />
+      <workItem from="1585267866645" duration="3437000" />
+      <workItem from="1585533366033" duration="1217000" />
+      <workItem from="1585538278000" duration="2824000" />
+      <workItem from="1585614475241" duration="1435000" />
+      <workItem from="1593311657374" duration="805000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="pom.xml">
+      <created>1593312460403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593312464721</updated>
+      <workItem from="1593312465320" duration="3365000" />
+      <workItem from="1593324424892" duration="13306000" />
+      <workItem from="1593349153698" duration="1501000" />
+      <workItem from="1593392951798" duration="9128000" />
+      <workItem from="1593476318225" duration="2000" />
+      <workItem from="1593508835142" duration="36000" />
+      <workItem from="1593574598933" duration="1890000" />
+      <workItem from="1593608114113" duration="18000" />
+      <workItem from="1593608255111" duration="1145000" />
+      <workItem from="1593659374427" duration="979000" />
+      <workItem from="1593661191004" duration="598000" />
+      <workItem from="1593670418648" duration="594000" />
+      <workItem from="1593672652972" duration="1195000" />
+      <workItem from="1593674515551" duration="12000" />
+      <workItem from="1593674591144" duration="1765000" />
+      <workItem from="1593683345821" duration="719000" />
+      <workItem from="1593685856773" duration="677000" />
+      <workItem from="1593688243943" duration="232000" />
+      <workItem from="1593688754137" duration="2119000" />
+      <workItem from="1593734787539" duration="120000" />
+      <workItem from="1593734946050" duration="1292000" />
+      <workItem from="1593756988079" duration="436000" />
+      <workItem from="1594091363847" duration="12087000" />
+      <workItem from="1594209061608" duration="97000" />
+      <workItem from="1595302062694" duration="17079000" />
+      <workItem from="1595406646186" duration="5611000" />
+      <workItem from="1595463823516" duration="11417000" />
+      <workItem from="1595559828494" duration="79000" />
+      <workItem from="1595757725181" duration="748000" />
+      <workItem from="1595808660006" duration="21965000" />
+      <workItem from="1595895778927" duration="11139000" />
+      <workItem from="1595917683787" duration="17348000" />
+      <workItem from="1595982276102" duration="73000" />
+      <workItem from="1595982472831" duration="55630000" />
+      <workItem from="1596414735446" duration="45066000" />
+      <workItem from="1596539467918" duration="32870000" />
+      <workItem from="1596618548780" duration="11151000" />
+      <workItem from="1596673986791" duration="29942000" />
+      <workItem from="1596760008710" duration="14835000" />
+      <workItem from="1597018160365" duration="32072000" />
+      <workItem from="1597144298631" duration="40000" />
+      <workItem from="1597144426566" duration="306000" />
+      <workItem from="1597144786145" duration="4001000" />
+      <workItem from="1597192121769" duration="28827000" />
+      <workItem from="1597278267429" duration="22497000" />
+      <workItem from="1597325979869" duration="318000" />
+      <workItem from="1597365368641" duration="17801000" />
+      <workItem from="1597456453549" duration="20241000" />
+      <workItem from="1597626401349" duration="22558000" />
+      <workItem from="1597710294196" duration="11585000" />
+      <workItem from="1597796753516" duration="25595000" />
+      <workItem from="1597904227002" duration="57831000" />
+      <workItem from="1598253849698" duration="13738000" />
+      <workItem from="1598315070965" duration="18862000" />
+      <workItem from="1598520203744" duration="5110000" />
+      <workItem from="1599114560331" duration="30000" />
+      <workItem from="1599467120663" duration="709000" />
+      <workItem from="1600152257511" duration="3609000" />
+      <workItem from="1600216766873" duration="11527000" />
+      <workItem from="1600302515855" duration="3996000" />
+      <workItem from="1600313494182" duration="8573000" />
+      <workItem from="1600388882380" duration="21140000" />
+      <workItem from="1600648288076" duration="35036000" />
+      <workItem from="1600767155912" duration="32481000" />
+      <workItem from="1600916576012" duration="430000" />
+      <workItem from="1603271027121" duration="514000" />
+      <workItem from="1603274292767" duration="77000" />
+      <workItem from="1603433590741" duration="627000" />
+      <workItem from="1604287638630" duration="1365000" />
+      <workItem from="1604386024318" duration="1302000" />
+      <workItem from="1604458941784" duration="1310000" />
+      <workItem from="1604482446035" duration="623000" />
+      <workItem from="1604536703507" duration="4981000" />
+      <workItem from="1604626276422" duration="2206000" />
+      <workItem from="1604884598813" duration="3318000" />
+      <workItem from="1604975133075" duration="1703000" />
+      <workItem from="1605079353345" duration="11189000" />
+      <workItem from="1605140930032" duration="21688000" />
+      <workItem from="1605228086088" duration="11547000" />
+      <workItem from="1605319700399" duration="4407000" />
+      <workItem from="1605335046947" duration="5517000" />
+      <workItem from="1605488611744" duration="12348000" />
+      <workItem from="1605573397018" duration="837000" />
+      <workItem from="1605601603030" duration="64000" />
+      <workItem from="1605616706710" duration="1358000" />
+      <workItem from="1605659787986" duration="488000" />
+      <workItem from="1605661652421" duration="1043000" />
+      <workItem from="1605689797400" duration="3866000" />
+      <workItem from="1605756940998" duration="775000" />
+      <workItem from="1606120108134" duration="1801000" />
+      <workItem from="1606178264124" duration="1870000" />
+      <workItem from="1606288232812" duration="878000" />
+      <workItem from="1606296809096" duration="4299000" />
+      <workItem from="1607501070721" duration="269000" />
+      <workItem from="1607507698860" duration="1623000" />
+      <workItem from="1607587673821" duration="196000" />
+      <workItem from="1607655391899" duration="1701000" />
+      <workItem from="1607932791155" duration="6385000" />
+      <workItem from="1607994067695" duration="8912000" />
+      <workItem from="1608080547660" duration="8080000" />
+      <workItem from="1608170781287" duration="2911000" />
+      <workItem from="1608187221036" duration="14958000" />
+      <workItem from="1608260231668" duration="5028000" />
+      <workItem from="1608466643519" duration="1793000" />
+      <workItem from="1608512766859" duration="22180000" />
+      <workItem from="1608597550317" duration="8970000" />
+      <workItem from="1608619618371" duration="12481000" />
+      <workItem from="1608684352020" duration="15262000" />
+      <workItem from="1608721435272" duration="3216000" />
+      <workItem from="1608771742420" duration="5987000" />
+      <workItem from="1608791879535" duration="13381000" />
+      <workItem from="1608857657764" duration="24068000" />
+      <workItem from="1608948657921" duration="15645000" />
+      <workItem from="1609116220774" duration="13741000" />
+      <workItem from="1609153562349" duration="3613000" />
+      <workItem from="1609202015300" duration="16426000" />
+      <workItem from="1609288634597" duration="19659000" />
+      <workItem from="1609332999399" duration="232000" />
+      <workItem from="1609374932568" duration="31842000" />
+      <workItem from="1609431927434" duration="587000" />
+      <workItem from="1609720886378" duration="25311000" />
+      <workItem from="1609808394741" duration="22757000" />
+      <workItem from="1609897592038" duration="6360000" />
+      <workItem from="1610069333053" duration="1374000" />
+      <workItem from="1610501857212" duration="3299000" />
+      <workItem from="1610520257735" duration="2990000" />
+      <workItem from="1610595174873" duration="2860000" />
+      <workItem from="1610694124259" duration="227000" />
+      <workItem from="1610793675447" duration="280000" />
+      <workItem from="1611039062043" duration="60000" />
+      <workItem from="1615259319929" duration="2476000" />
+      <workItem from="1615274295339" duration="8887000" />
+      <workItem from="1615335340099" duration="624000" />
+      <workItem from="1615336132462" duration="3134000" />
+      <workItem from="1615523264259" duration="8638000" />
+      <workItem from="1615558575800" duration="19039000" />
+      <workItem from="1615854788818" duration="12870000" />
+      <workItem from="1615942268633" duration="17238000" />
+      <workItem from="1616032558497" duration="17924000" />
+      <workItem from="1616073861898" duration="18616000" />
+      <workItem from="1616394020053" duration="9696000" />
+      <workItem from="1616419516905" duration="2163000" />
+      <workItem from="1616507629708" duration="1352000" />
+      <workItem from="1616574251317" duration="4813000" />
+      <workItem from="1616742577144" duration="1294000" />
+      <workItem from="1617094129150" duration="2248000" />
+      <workItem from="1617105564435" duration="11610000" />
+      <workItem from="1617690437011" duration="631000" />
+      <workItem from="1617886217540" duration="3342000" />
+      <workItem from="1617928721679" duration="835000" />
+      <workItem from="1617953173658" duration="4902000" />
+      <workItem from="1618069706552" duration="117000" />
+      <workItem from="1618364785061" duration="1487000" />
+      <workItem from="1618585985429" duration="889000" />
+      <workItem from="1618812694806" duration="1170000" />
+      <workItem from="1620457271804" duration="14637000" />
+      <workItem from="1620737934961" duration="9721000" />
+      <workItem from="1620897869404" duration="3727000" />
+      <workItem from="1621235789979" duration="22867000" />
+      <workItem from="1622186280605" duration="2562000" />
+      <workItem from="1622425046634" duration="2848000" />
+      <workItem from="1622849858409" duration="692000" />
+      <workItem from="1622960703450" duration="12000" />
+      <workItem from="1623431223999" duration="73000" />
+      <workItem from="1624190413360" duration="27881000" />
+      <workItem from="1624780492042" duration="443000" />
+      <workItem from="1624852166596" duration="5380000" />
+      <workItem from="1625059371958" duration="4171000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#SQL_Dialects" timestamp="1578532829773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1578532829773" />
+    <state x="350" y="89" key="#TestAPIForJD.JDRechrgeQry" timestamp="1584525511485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="89" key="#TestAPIForJD.JDRechrgeQry/0.0.1536.824@0.0.1536.824" timestamp="1584525511485" />
+    <state x="102" y="89" key="#TestAPIForJD.JDRelayImgUpload" timestamp="1584525455392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="102" y="89" key="#TestAPIForJD.JDRelayImgUpload/0.0.1536.824@0.0.1536.824" timestamp="1584525455392" />
+    <state x="350" y="89" key="#TestAPIForJD.JDWithDrawQry" timestamp="1584525499984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="89" key="#TestAPIForJD.JDWithDrawQry/0.0.1536.824@0.0.1536.824" timestamp="1584525499984" />
+    <state x="332" y="89" key="#TestAPIForJD.testJDAcctMsgQry" timestamp="1584525472655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="332" y="89" key="#TestAPIForJD.testJDAcctMsgQry/0.0.1536.824@0.0.1536.824" timestamp="1584525472655" />
+    <state x="17" y="89" key="#TestAPIForJD.testJDAcctOpen" timestamp="1584525464850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="17" y="89" key="#TestAPIForJD.testJDAcctOpen/0.0.1536.824@0.0.1536.824" timestamp="1584525464850" />
+    <state x="159" y="89" key="#TestAPIForJD.testJDRechage" timestamp="1584525493527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="159" y="89" key="#TestAPIForJD.testJDRechage/0.0.1536.824@0.0.1536.824" timestamp="1584525493527" />
+    <state x="102" y="89" key="#TestAPIForJD.testJDReplaceCard" timestamp="1584525479896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="102" y="89" key="#TestAPIForJD.testJDReplaceCard/0.0.1536.824@0.0.1536.824" timestamp="1584525479896" />
+    <state x="235" y="89" key="#TestAPIForJD.testJDReplacePhone" timestamp="1584525487295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="235" y="89" key="#TestAPIForJD.testJDReplacePhone/0.0.1536.824@0.0.1536.824" timestamp="1584525487295" />
+    <state x="25" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584688768515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="25" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584688768515" />
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578536206717" />
+    <state x="612" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1584498636642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584498636642" />
+    <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578832451122" />
+    <state x="244" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584525387802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584525387802" />
+    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1578831891175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="432" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1578831891175" />
+    <state x="592" y="220" key="FileChooserDialogImpl" timestamp="1585215865321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="220" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585215865321" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578563628699" />
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom" timestamp="1585623096200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585623096200" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782795" />
+    <state width="1493" height="314" key="GridCell.Tab.0.center" timestamp="1585623096200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585623096200" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782795" />
+    <state width="1493" height="314" key="GridCell.Tab.0.left" timestamp="1585623096200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585623096200" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782795" />
+    <state width="1493" height="314" key="GridCell.Tab.0.right" timestamp="1585623096200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585623096200" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782795" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585221375046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585221375046" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782796" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585221375046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585221375046" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782795" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585221375046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585221375046" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782795" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585221375046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585221375046" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578899782796" />
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1578831405196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578831405196" />
+    <state x="370" y="115" key="SettingsEditor" timestamp="1585203642672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="370" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585203642672" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578541340176" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1585190855850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1585190855850" />
+    <state x="457" y="172" width="621" height="480" key="find.popup" timestamp="1585553572802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="172" width="621" height="480" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585553572802" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585205059231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585205059231" />
+    <state x="854" y="127" width="672" height="538" key="search.everywhere.popup" timestamp="1585554091502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="854" y="127" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585554091502" />
+    <state x="1068" y="160" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578554483267" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/mutal/ExecuteRequest.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/encrypt/JDZXCEncryptAndDecrypt.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/mutal/ExecuteRequest.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/encrypt/JDEncryptAndDecrypt.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>240</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankCompanyOpenAccountTest.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankPersonOpenAccountTest.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
+          <line>369</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/TT.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/TT.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
