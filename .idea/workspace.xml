@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4632cf4f-e01e-4171-9083-9a94bb776e7f" name="Default Changelist" comment="" />
+    <list default="true" id="4632cf4f-e01e-4171-9083-9a94bb776e7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -717,7 +719,7 @@
       <workItem from="1624780492042" duration="443000" />
       <workItem from="1624852166596" duration="5380000" />
       <workItem from="1625059371958" duration="4171000" />
-      <workItem from="1625310733349" duration="282000" />
+      <workItem from="1625310733349" duration="545000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -918,12 +920,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
-          <line>240</line>
+          <line>241</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
-          <line>234</line>
+          <line>235</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -938,7 +940,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lon/lin/test/SxBankTestAPIForZHNLSC.java</url>
-          <line>369</line>
+          <line>370</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
