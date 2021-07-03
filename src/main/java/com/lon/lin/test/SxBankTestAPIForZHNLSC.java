@@ -184,7 +184,7 @@ public class SxBankTestAPIForZHNLSC {
 //                requestData.put("teleNo","13817220387");
             //requestData.put("customerName","阿里巴巴");
             //requestData.put("channel","IOP");
-        
+
             JSONObject imageList = new JSONObject(); //审核图像数组
             imageList.put("imageType","05");//图片类型01：身份证人像面 02：身份证国徽面 03：证件影像件（非身份证时必输） 04：纸质材料（非身份证时必输） 05：法人身份证人像面  06：法人身份证国徽面 07：代办人身份证人像面 08：代办人身份证国徽面  09：营业执照影像
 //            imageList.put("imageUrl","http://10.7.1.88:8080/image/20201113/0080034-OPENAPI001-20201113145255-075994/image/葛黎昕.bmp");//图片地址
