@@ -29,8 +29,8 @@ public class SxBankPersonOpenAccountTest {
         requestData.put("secondChannelCode","");//二级平台编码
         requestData.put("tranSeqNum", UUID.randomUUID().toString().replace("-",""));//平台测测流水号
         requestData.put("certTypeCode","0");//证件类型 0：身份证；
-        requestData.put("certNo","33010019900530156X");//证件号 一期传身份证件号码
-        requestData.put("customerName","伊丽莎白");//账号名称 传开户本人身份证上的姓名、
+        requestData.put("certNo","330100198905301561");//证件号 一期传身份证件号码
+        requestData.put("customerName","黄世仁");//账号名称 传开户本人身份证上的姓名、
 
         requestData.put("teleNo","18100000004");//绑定手机号
         requestData.put("smsCode","111101");//验证码  每次开户提交前需要先通过3.4.1获取短信验证码接口获取验证码然后填入此字段，例如：235464
