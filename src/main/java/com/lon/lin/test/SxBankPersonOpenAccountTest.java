@@ -53,6 +53,9 @@ public class SxBankPersonOpenAccountTest {
         list.add(imageList2);
 
         requestData.put("imageList",list);
+
+        requestData.put("acctType", "0235"); //0235-个人普通账户, 0244-个人简易账户;（不传则默认0235，需上送影像图片）
+
         ExecuteRequest.executeRequest(requestData.toJSONString(), path,new JDEncryptAndDecrypt());
     }
 
