@@ -1,2 +1,3 @@
 target/classes/com/lon/lin/test/imageInfo.class
 *.class
+logs/
